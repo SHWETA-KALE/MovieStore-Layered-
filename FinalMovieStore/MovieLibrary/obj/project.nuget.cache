@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8kdcNHYINY=",
+  "success": true,
+  "projectFilePath": "D:\\Assignments\\MovieStore_MiniProject\\FinalMovieStore\\MovieLibrary\\MovieLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

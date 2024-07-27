@@ -1,0 +1,13 @@
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\bin\Debug\net8.0\MovieLibrary.deps.json
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\bin\Debug\net8.0\MovieLibrary.dll
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\bin\Debug\net8.0\MovieLibrary.pdb
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\MovieLibrary.csproj.AssemblyReference.cache
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfoInputs.cache
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfo.cs
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\MovieLibrary.csproj.CoreCompileInputs.cache
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\MovieLibrary.dll
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\refint\MovieLibrary.dll
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\MovieLibrary.pdb
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\obj\Debug\net8.0\ref\MovieLibrary.dll
+D:\Assignments\MovieStore_MiniProject\FinalMovieStore\MovieLibrary\bin\Debug\net8.0\MovieLibrary.dll.config
